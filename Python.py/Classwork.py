@@ -1,0 +1,6 @@
+NAME=input ("enter your name:\n")
+AGE=input("enter your age:\n")
+CLASS=input ("enter your class:\n")
+print("your name is:\n",NAME)
+print("your age is:\n",AGE)
+print("your class:\n",CLASS)
