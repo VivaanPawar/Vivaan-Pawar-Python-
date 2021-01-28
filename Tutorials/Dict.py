@@ -1,0 +1,10 @@
+v = {"Vivaan":"Khichdi","Priyansh":"Burger","Yukt":"Pizza"}
+# print (type(v))
+# print(v)
+# print(v["Yukt"])
+# v1 = v.copy()
+# print(v)
+# print(v1)
+# v.update(("Vivaa":"name"))
+v.update({"Name":"Name"})
+print(v)
