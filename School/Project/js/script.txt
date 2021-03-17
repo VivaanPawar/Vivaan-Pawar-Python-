@@ -1,0 +1,5 @@
+alert ("Welcome To The Mughal Architecture HTML Page")
+console.log("Welcome")
+console.error("No Error")
+console.warn("All Safe")
+console.log(":)")

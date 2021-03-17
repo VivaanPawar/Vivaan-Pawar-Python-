@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background: rgb(112, 199, 25);
+}
+h1 {
+  color: aqua;
+  text-shadow: rgb(0, 0, 0);
+  font-size: 100px;
+}
+.buttons {
+  background-color: yellow;
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Mughal Architecture</title>
+	<link rel="shortcut icon" src="images/taj.jpeg">
+	<script type="text/javascript" src="js/script.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<h1>The Mughal Architecture</h1>
+	<table>
+		<tr>
+			<th><img width="800" height="400" src="images/taj.jpeg"></th>
+			<th><img width="750" height="400" src="images/download.jpeg"></th>
+		</tr>
+		<tr>
+			<th><a href="https://www.google.com/search?gs_ssp=eJzj4tDP1TfIsUhOMmC0UjWoMLY0NzE3NDJMMTcwSkszS7EyqEhJMUpMNbEwME4zNzNPSUn14ixJzFLITcxIzAEA6IUREQ&q=taj+mahal&oq=taj&aqs=chrome.1.69i57j46i67i175i199i433j0i67j0i131i433j46i199i291i433j0i67j0i131i433j0i271.2663j0j7&sourceid=chrome&ie=UTF-8" target = "_blank">To Know More Click Here</a></th>
+			<th><a href="https://www.google.com/search?sxsrf=ALeKk03FLTQrWAbZ0Ln6n1L85KSki5vOxw%3A1613889421912&ei=jf8xYI2eN5H0rQG7jpK4Dw&q=the+mughal+architecture&oq=The+Mugha&gs_lcp=Cgdnd3Mtd2l6EAMYADIECCMQJzIICC4QsQMQkQIyBwgAEIcCEBQyAggAMgIIADIICC4QxwEQrwEyAggAMgIIADICCC4yAggAOgcIABBHELADOg0ILhDHARCvARAnEJMCOgUIABCRAjoICAAQsQMQgwE6BQgAELEDOgsILhDHARCvARCRAjoECAAQQzoFCC4QsQM6BwguELEDEEM6BAgAEAM6CgguEMcBEK8BEEM6BQguEJECOggILhCxAxCDAVDnQljoT2DtXGgDcAJ4AIABuAGIAeMMkgEEMC4xMJgBAKABAaoBB2d3cy13aXrIAQLAAQE&sclient=gws-wiz" target = "_blank">To Know More Click Here</a></th>
+		</tr>
+	</table>
+	<h2>Featueres Of Mughal Architecture</h2>
+	<li> There was stability in the empire which enabled the emperors to pay atention to architecture.<br>
+	<li>The mughals had more funds at their disposal to spend on munuments.<br>	
+	<li>the domes and arches continued to be used.<br>
+	<li>Full domes become common and tombes is started situating on stone platforms.<br>	
+	<li>Some mosques and tombes have minaret.<br>
+	<div class="vivaan">
+		<h3>The Mughal Rulers</h3>
+		<table>
+			<!--caption style=color:red-->
+			<!--b>figure:states and their capitals</b></caption-->
+			<tr>
+			<th>Name</th>
+			<th>Architecture</th>
+			</tr>
+			<tr>
+			<td>Babur:</td>
+			<td>     He introduces garden palaces in agra,ajmer,sikri and many other places as in islam gardern symbolises the paradise.One of the example of this type of monument is chahar bagh</td>
+			</tr>
+			<tr>
+			<td>Humayun:</td>
+			<td>Humayun did't built any thing his tomb was also built by his widow in the reign of akbar</td>
+			</tr>
+			<tr>
+			<td>Akbar:</td>
+			<td>The Akbar reign saw the fusion of persian ,central and regional stylesof archieatecture.One of the perfect example of the fusion style is fatehpur sikri.he Also built agra fort in agra with red sandstones.He also built jahangiri mahal for his son khurram.his tomb was near agra.</td>
+			</tr>
+			<tr>
+			<td>Jahangir:</td>
+			<td>He built akbar's tomb near sikandar and the tomb Itimad-Ud-Daulah built by Nur jahan his wife</td>
+			</tr>
+			<tr>
+			<td>Shan Jhan:</td>
+			<td>Shan Jhan is also know as Enginear King He built many monuments one of the famous monument is taj mahal it is also one of the seven wonders of the world it was built for his wife's tomb he also built red fort and many other monuments.</td>
+			</tr>
+			<tr>
+			<td>Aurangzeb:</td>
+			<td>The mughal archietecture slow down during the Aurangzeb reign he built bibi-ka-makbara which was poor imitation of taj mahal he also built badsahi masjid<td>
+			</tr>
+		</table>
+	</div>	
+</body>
+</html>

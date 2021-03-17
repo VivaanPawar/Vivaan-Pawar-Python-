@@ -1,0 +1,7 @@
+from tkinter  import *
+root = Tk()
+root.mainloop()
+a = int("Input("Enter The Name")
+print("Hello World")
+
+

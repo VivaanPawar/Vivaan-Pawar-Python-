@@ -1,0 +1,26 @@
+h1{
+	font:Arial,sans-serif;
+	text-align: center;
+	align-items: center;
+	text-shadow: dark 3px;
+}
+body{
+	background-color:  #ff8080;
+	/*text-align: center;
+	align-items: center;*/
+	text-transform: capitalize;
+	text-shadow: dark 3px;
+}
+vivaan{
+	caption{caption-side:top}
+	table,td,th{border:1px solid blue}
+	table{border-collapse:separate;padding:50px;width:100%;height:50%;text-align:center;background-color:rgb(250,223,223)}
+	th{color:red}
+}
+h3{
+	color:#00bfff	;
+	font:Arial,sans-serif;
+	text-align: center;
+	align-items: center;
+	text-shadow: dark 3px;
+}
